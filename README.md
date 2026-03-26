@@ -53,22 +53,6 @@ Data professional currently supporting **AI/AR/VR data pipelines at Meta** (via 
 
 ---
 
-### 📁 Featured Projects
-
-#### 🏢 [Workforce Operations Analytics](https://github.com/TaiNguyen42/workforce-operations-sql)
-> SQL analysis of workforce KPIs — attendance, productivity, and performance. PostgreSQL · CTEs · Window Functions · 10 business questions answered.
-
-#### 🏠 [Seattle Housing Price Forecast](https://github.com/TaiNguyen42)
-> Predictive pricing models built on 15,000+ King County records. R · Regression · kNN · +15% forecast accuracy improvement.
-
-#### 🌍 [Global Drug Seizure Analysis](https://github.com/TaiNguyen42)
-> Geospatial analysis of 1M+ records spanning 1980–2020. R · SQL · Tableau · +20% resource allocation efficiency.
-
-#### 🚗 [AutoValuate — Car Price Classifier](https://github.com/TaiNguyen42)
-> ML-driven classification tool for used car price prediction. R · Data Mining · Classification modeling.
-
----
-
 ### 💡 How I Create Impact
 
 ```
